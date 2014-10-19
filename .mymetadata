@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="CNGrid1.3"
+  id="myeclipse.1407141918832"
+  context-root="/CNGrid1.3"
+  j2ee-spec="5.0"
+  archive="CNGrid1.3.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
